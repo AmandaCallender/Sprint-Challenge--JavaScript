@@ -7,7 +7,7 @@
 */
 
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
-const dinosaurs = {
+const trex = {
   name: "tyrannosaurus",
   diet: "carnivorous",
   weight: "7000kg",
@@ -15,7 +15,7 @@ const dinosaurs = {
   period: "Late Cretaceous",
 };
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
-const dinosaurs = {
+const stego = {
   name: "stegosaurus",
   diet: "herbivorous",
   weight: "2000kg",
@@ -23,7 +23,7 @@ const dinosaurs = {
   period: "Late Jurassic",
 };
 // velociraptor, carnivorous, 15kg, 1.8m, Late Cretaceous
-const dinosaurs = {
+const raptor = {
   name: "velociraptor",
   diet: "carnivorous",
   weight: "15kg",
