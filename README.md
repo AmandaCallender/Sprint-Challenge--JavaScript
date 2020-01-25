@@ -30,7 +30,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
-.foreach allows for the array to be mutable and map() returns a new array the same length.
+`.forEach` allows for the array to be mutable and `.map` returns a new array the same length.
 
 2. What is the difference between a function and a method?
 
